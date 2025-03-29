@@ -10,7 +10,7 @@ Soy economista de ESPOL,apasionada del análisis de datos y la programación
   - Power BI
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Pregúntame por mis proyectos, estaré feliz de darte una mano!😉<br>
-- Outside tech, 📖 me gusta leer novelas, 🖌️ pintar mandalas, 🎵 escuchar música, and 🌴 explorar la naturaleza y hace kayak.
+- Aprendiz autónomo, 📖 me gusta leer novelas, 🖌️ pintar mandalas, 🎵 escuchar música, y 🌴 explorar la naturaleza y hace kayak.
 
 ## My Skills Include
 
