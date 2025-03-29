@@ -17,6 +17,10 @@ Soy economista de ESPOL,apasionada del análisis de datos y la programación
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+
+<h4> Other </h4>
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+
 </span>
 
 <h4> Databases </h4>
